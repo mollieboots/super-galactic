@@ -20,7 +20,12 @@ export class SuperGalactic {
     }
 
     lifeSpanCalculator(age, sex) {
-
+        let timeLeft;
+        if (sex == "Female") {
+            timeLeft = 81.4 - age;
+        } else {
+            timeLeft = 76.3 - age;
+        }
+        return timeLeft.toFixed(2);
     }
 }
-//81.4 76.3

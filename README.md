@@ -1,6 +1,6 @@
 # Super Galactic Age Calculator
 
-Convert your age from earth years to those of other planets in the solar system. Calculate remaining years based on user age and sex.
+Convert your age from earth years to those of other planets in the solar system. Calculate remaining years based on user age and sex. Sorry to intersex and trans individuals, the data isn't there for you yet.
 
 ## Getting Started
 
